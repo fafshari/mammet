@@ -1,7 +1,6 @@
 {
   "name": "mammet",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +10,18 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
+    "csvtojson": "^2.0.10",
     "discord.js": "^14.3.0",
     "dotenv": "^16.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fafshari/mammet.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/fafshari/mammet/issues"
+  },
+  "homepage": "https://github.com/fafshari/mammet#readme",
+  "description": ""
 }
